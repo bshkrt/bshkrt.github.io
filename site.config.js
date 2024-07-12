@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      // name: `morethan-log`,
-      // href: "https://github.com/morethanmin/morethan-log",
+      name: `LI2 Contests`,
+      href: "https://codeforces.com/group/jtU6D2hVEi/blog",
     },
   ],
   // blog setting (required)
