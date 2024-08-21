@@ -15,6 +15,10 @@ const CONFIG = {
       name: `LI2 Contests`,
       href: "https://codeforces.com/group/jtU6D2hVEi/blog",
     },
+    {
+      name: `My blog in RU`,
+      href: "https://teletype.in/@abdullin.gimran",
+    },
   ],
   // blog setting (required)
   blog: {
